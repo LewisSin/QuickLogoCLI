@@ -68,5 +68,7 @@ Email: LewisSinche@gmail.com
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 
-
+## Links
+-Live Application: https://lewissin.github.io/QuickLogoCLI/
+-Repo: https://github.com/LewisSin/QuickLogoCLI
 
